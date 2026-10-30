@@ -1,0 +1,20 @@
+# inputs and per-run outputs stay outside version control
+*.h5ad
+*.h5
+*.loom
+*.npz
+results/bench/runs/
+results/rerun/
+results/figures/
+results/tables/
+# comparator checkouts (see third_party/README.md)
+third_party/SpaGE/
+third_party/ALRA/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store

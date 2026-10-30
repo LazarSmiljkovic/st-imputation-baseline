@@ -1,0 +1,13 @@
+dataset,k,annotation_k,clusters_large,share_spots_corrected
+adultB5,7,False,7,1.0
+adultB5,30,False,30,1.0
+adultB5,60,False,60,1.0
+adultB5,249,True,66,0.33685095462489767
+embryo_raw,7,False,7,1.0
+embryo_raw,30,False,30,1.0
+embryo_raw,60,False,60,1.0
+embryo_raw,259,True,178,0.7740184912233686
+kidney,7,False,7,1.0
+kidney,16,True,16,1.0
+kidney,30,False,30,1.0
+kidney,60,False,60,1.0

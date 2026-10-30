@@ -1,0 +1,37 @@
+dataset,seed,labels,k,wmean
+tissue:DataUploadFinal/Dataset17,42,stored,8,0.5762921592317083
+tissue:DataUploadFinal/Dataset17,42,kmeans full,8,0.5640255253520393
+tissue:DataUploadFinal/Dataset17,42,kmeans masked,8,0.4281867571345866
+tissue:DataUploadFinal/Dataset17,43,stored,8,0.5630450870996622
+tissue:DataUploadFinal/Dataset17,43,kmeans full,8,0.5479497786338663
+tissue:DataUploadFinal/Dataset17,43,kmeans masked,8,0.443163686345343
+tissue:DataUploadFinal/Dataset15,42,stored,8,0.36239055462276465
+tissue:DataUploadFinal/Dataset15,42,kmeans full,8,0.344073554911445
+tissue:DataUploadFinal/Dataset15,42,kmeans masked,8,0.22832677058829584
+tissue:DataUploadFinal/Dataset15,43,stored,8,0.3478457938038543
+tissue:DataUploadFinal/Dataset15,43,kmeans full,8,0.35163185224031307
+tissue:DataUploadFinal/Dataset15,43,kmeans masked,8,0.22033833262575725
+tissue:DataUploadFinal/Dataset9,42,stored,11,0.43501016929511305
+tissue:DataUploadFinal/Dataset9,42,kmeans full,11,0.44462926047546536
+tissue:DataUploadFinal/Dataset9,42,kmeans masked,11,0.3955014618588844
+tissue:DataUploadFinal/Dataset9,43,stored,11,0.431634996541681
+tissue:DataUploadFinal/Dataset9,43,kmeans full,11,0.441969916984226
+tissue:DataUploadFinal/Dataset9,43,kmeans masked,11,0.39785955630039876
+tissue:DataUploadFinal/Dataset13,42,stored,12,0.15673739406549161
+tissue:DataUploadFinal/Dataset13,42,kmeans full,12,0.15998087254806542
+tissue:DataUploadFinal/Dataset13,42,kmeans masked,12,0.09784513512091868
+tissue:DataUploadFinal/Dataset13,43,stored,12,0.17543408672347122
+tissue:DataUploadFinal/Dataset13,43,kmeans full,12,0.16881769750759862
+tissue:DataUploadFinal/Dataset13,43,kmeans masked,12,0.12155422484866217
+adultB5,42,stored,249,0.13398258689088863
+adultB5,42,kmeans full,249,0.13188769200600814
+adultB5,42,kmeans masked,249,0.11720616804574992
+adultB5,43,stored,249,0.13369836526201753
+adultB5,43,kmeans full,249,0.13119662221934347
+adultB5,43,kmeans masked,249,0.1177877516215599
+kidney,42,stored,16,0.3334638573827477
+kidney,42,kmeans full,16,0.3339465422745111
+kidney,42,kmeans masked,16,0.3305018264025103
+kidney,43,stored,16,0.33209153349653725
+kidney,43,kmeans full,16,0.3329843236388446
+kidney,43,kmeans masked,16,0.3294214391575879
